@@ -1,2 +1,2 @@
-# my arduino code 
+# My Arduino code 
 ## jyothi engg
